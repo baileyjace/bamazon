@@ -16,4 +16,8 @@ The following npm packages were used:
 
 ## Screenshots
 
+Shows application initializing & table displaying items for sale
+[!setup](https://github.com/baileyjace/bamazon/blob/master/images/1.PNG)
 
+Purchase functions & updated table, application refreshes after purchase
+[!results](https://github.com/baileyjace/bamazon/blob/master/images/2.PNG)
