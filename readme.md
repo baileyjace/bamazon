@@ -21,3 +21,7 @@ Shows application initializing & table displaying items for sale
 
 Purchase functions & updated table, application refreshes after purchase
 ![results](https://github.com/baileyjace/bamazon/blob/master/images/2.PNG)
+
+## To Do
+* Add more CLI styling
+* Add more functionality and communication
